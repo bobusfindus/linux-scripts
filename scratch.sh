@@ -1,4 +1,4 @@
-# Ctrl - D disconects from ssh
+# Ctrl - D / exit disconects from ssh
 # Ctrl - L clears the screen
 # Ctrl - V exit / logsout
 
@@ -23,3 +23,4 @@ ssh-copy-id <server-name> # then enter password for the user currently logged on
 # Log in to remote host with 
 ssh -i <path-to-private-key.pem> remoteuser@remotehost
 
+## Executing commands using the Bash shell
